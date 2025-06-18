@@ -9,7 +9,7 @@ This project explores the predictive modeling of Alzheimer's disease diagnosis u
 
 ## 📂 Dataset
 
-- Source: [Kaggle - Rabie El Khairoua Alzheimer’s Dataset](https://www.kaggle.com/datasets/rabielkhairoua/alzheimer-disease-dataset)
+- Source: [Kaggle - Rabie El Khairoua Alzheimer’s Dataset]([https://www.kaggle.com/datasets/rabielkhairoua/alzheimer-disease-dataset](https://www.kaggle.com/datasets/rabieelkharoua/alzheimers-disease-dataset?resource=download))
 - Total Records: 2149
 - Target Variable: `Diagnosis`
 - Feature Subsets:
